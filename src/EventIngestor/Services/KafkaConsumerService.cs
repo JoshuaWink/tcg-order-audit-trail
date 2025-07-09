@@ -42,7 +42,7 @@ public class KafkaConsumerService : BackgroundService
             HeartbeatIntervalMs = 10000,
             MaxPollIntervalMs = 300000,
             FetchMinBytes = 1,
-            FetchMaxWaitMs = 500,
+            FetchWaitMaxMs = 500,
             SecurityProtocol = ParseSecurityProtocol(_kafkaSettings.SecurityProtocol),
             SaslMechanism = ParseSaslMechanism(_kafkaSettings.SaslMechanism),
             SaslUsername = _kafkaSettings.SaslUsername,
