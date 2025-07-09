@@ -1,0 +1,7 @@
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/AuditApi.csproj.AssemblyReference.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/AuditApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/AuditApi.AssemblyInfoInputs.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/AuditApi.AssemblyInfo.cs
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/AuditApi.csproj.CoreCompileInputs.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/OrderAuditTrail.AuditApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/AuditApi/obj/Debug/net8.0/OrderAuditTrail.AuditApi.MvcApplicationPartsAssemblyInfo.cache

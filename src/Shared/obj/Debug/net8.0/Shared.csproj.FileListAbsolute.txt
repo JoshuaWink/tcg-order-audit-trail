@@ -1,0 +1,14 @@
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.csproj.AssemblyReference.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.AssemblyInfoInputs.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.AssemblyInfo.cs
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.csproj.CoreCompileInputs.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/bin/Debug/net8.0/OrderAuditTrail.Shared.deps.json
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/bin/Debug/net8.0/OrderAuditTrail.Shared.runtimeconfig.json
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/bin/Debug/net8.0/OrderAuditTrail.Shared.dll
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/bin/Debug/net8.0/OrderAuditTrail.Shared.pdb
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/OrderAuditTrail.Shared.dll
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/refint/OrderAuditTrail.Shared.dll
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/OrderAuditTrail.Shared.pdb
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/Shared.genruntimeconfig.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Debug/net8.0/ref/OrderAuditTrail.Shared.dll

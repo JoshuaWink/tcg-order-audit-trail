@@ -1,0 +1,5 @@
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Release/net8.0/Shared.csproj.AssemblyReference.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Release/net8.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Release/net8.0/Shared.AssemblyInfoInputs.cache
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Release/net8.0/Shared.AssemblyInfo.cs
+/Users/joshuawink/Documents/github/tcg-order-audit-trail/src/Shared/obj/Release/net8.0/Shared.csproj.CoreCompileInputs.cache
