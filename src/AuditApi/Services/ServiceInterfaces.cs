@@ -16,7 +16,7 @@ public interface IEventReplayService
     Task<EventReplayDto> StartReplayAsync(EventReplayRequest request, CancellationToken cancellationToken = default);
     Task<EventReplayDto?> GetReplayStatusAsync(string replayId, CancellationToken cancellationToken = default);
     Task<ApiResponse<bool>> CancelReplayAsync(string replayId, CancellationToken cancellationToken = default);
-    Task<IEnumerable<EventReplayDto>> GetReplayHistoryAsync(CancellationToken cancellationToken = default);
+    Task<IEnumerable<ReplayHistoryItem>> GetReplayHistoryAsync(CancellationToken cancellationToken = default);
 }
 
 public interface IMetricsQueryService
